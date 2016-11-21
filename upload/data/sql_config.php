@@ -46,7 +46,7 @@ $charset = 'utf8';
 $manager = array('admin');
 
 	// 创始人密码数组
-$manager_pwd = array('63a9f0ea7bb98050796b649e85481845');
+$manager_pwd = array('02c88902814f86d87f55a4b55f939e8f');
 
 /**
 * 镜像站点设置，默认为1，代表是主站点

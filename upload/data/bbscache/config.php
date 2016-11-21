@@ -434,6 +434,8 @@ $db_shortcutforum=array(
 	'2' => '默认版块',
 );
 $db_hotwordlasttime='1471073382';
+$db_channeldomain=array(
+);
 $db_advertdb=array(
 );
 $db_windcode=array(
