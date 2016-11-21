@@ -9,5 +9,6 @@ $usersort_judge=array(
 	'onlinetime' => '0',
 	'postnum' => '0',
 	'rvrc' => '0',
+	'monthpost' => '0',
 );
 ?>

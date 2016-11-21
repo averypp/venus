@@ -1,4 +1,4 @@
 <?php
-$userinbbs=1;
-$guestinbbs=0;
+$userinbbs=0;
+$guestinbbs=1;
 ?>
