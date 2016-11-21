@@ -8,7 +8,7 @@ $dbhost = 'localhost';
 
 	// 数据库用户名和密码，连接和访问 MySQL 数据库时所需的用户名和密码，不推荐使用空的数据库密码。
 $dbuser = 'root';
-$dbpw = 'root';
+$dbpw = '266024';
 
 	// 数据库名，论坛程序所使用的数据库名。
 $dbname = 'phpwind';
