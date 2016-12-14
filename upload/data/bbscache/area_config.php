@@ -11,7 +11,7 @@ $area_channels=array(
 		'metatitle' => '',
 		'metadescrip' => '',
 		'metakeywords' => '',
-		'statictime' => '1479710812',
+		'statictime' => '1479719465',
 	),
 	'home' => array(
 		'id' => '2',
@@ -83,7 +83,7 @@ $area_channels=array(
 		'metatitle' => '',
 		'metadescrip' => '',
 		'metakeywords' => '',
-		'statictime' => '1471075210',
+		'statictime' => '1479719463',
 	),
 );
 $area_default_alias='home85';
