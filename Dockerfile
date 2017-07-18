@@ -10,9 +10,7 @@ RUN apk upgrade --no-cache \
     && echo "Asia/Shanghai" > /etc/timezone \
     && rm -rf /var/cache/apk/*
 
-COPY index.html /usr/share/nginx/html/index.html
-
-COPY docker.png /usr/share/nginx/html/docker.png
+COPY index.php /usr/share/nginx/html/index.php
 
 EXPOSE 80 443
 
